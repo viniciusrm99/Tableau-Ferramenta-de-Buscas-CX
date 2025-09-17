@@ -20,7 +20,7 @@ Na época, a equipe de negócios precisava consultar informações dos colaborad
 
 ---
 
-### 🖼️ Preview
+🎥 Prévia
 ![Preview do Dashboard](https://public.tableau.com/static/images/cx/cx_17580703501340/PaineldeConsulta/1.png)
 
 ---
