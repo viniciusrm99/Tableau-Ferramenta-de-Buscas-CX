@@ -1,4 +1,4 @@
-# 📊 Dashboard de Consulta – Tableau
+# 📊 Ferramenta de Busca CX – Tableau
 
 Este painel foi desenvolvido como **reprodução de uma solução real** que vivi no trabalho.  
 Na época, a equipe de negócios precisava consultar informações dos colaboradores de forma **rápida e prática**, mas não havia nenhuma ferramenta ou sistema que atendesse essa demanda.  
